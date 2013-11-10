@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["MoreRon"]
   s.date = "2013-11-10"
-  s.description = "TODO: longer description of your gem"
+  s.description = "Date period"
   s.email = "more.ron.too@gmail.com"
   s.extra_rdoc_files = [
     "LICENSE",
@@ -28,6 +28,7 @@ Gem::Specification.new do |s|
     "README.md",
     "README.rdoc",
     "Rakefile",
+    "date_period.gemspec",
     "lib/date_period.rb",
     "test/helper.rb",
     "test/test_date_period.rb"
@@ -36,7 +37,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = "2.0.3"
-  s.summary = "TODO: one-line summary of your gem"
+  s.summary = "Date period"
 
   if s.respond_to? :specification_version then
     s.specification_version = 4
