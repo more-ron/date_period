@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "date_period"
   gem.homepage = "http://github.com/more-ron/date_period"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Date period}
+  gem.description = %Q{Date period}
   gem.email = "more.ron.too@gmail.com"
   gem.authors = ["MoreRon"]
   # dependencies defined in Gemfile
