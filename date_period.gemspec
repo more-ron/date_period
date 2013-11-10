@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = "date_period"
-  s.version = ""
+  s.version = "0.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["MoreRon"]
@@ -28,6 +28,7 @@ Gem::Specification.new do |s|
     "README.md",
     "README.rdoc",
     "Rakefile",
+    "VERSION",
     "date_period.gemspec",
     "lib/date_period.rb",
     "test/helper.rb",
